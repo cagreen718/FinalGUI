@@ -80,7 +80,7 @@ namespace FinalGui
 
         private void txtSavedEntries_TextChanged(object sender, EventArgs e)
         {
-            //source to save to file:
+            //source to save to file: https://stackoverflow.com/questions/20595279/c-sharp-save-all-items-in-a-listbox-to-text-file
             //source for formatting: https://stackoverflow.com/questions/12013792/how-to-get-number-of-items-in-listbox
             const string sPath = "measures.txt";
 
