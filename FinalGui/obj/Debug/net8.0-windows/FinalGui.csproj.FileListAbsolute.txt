@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\FinalGui\bin\Debug\net8.0-windows\FinalGui.exe
+C:\Users\user\source\repos\FinalGui\bin\Debug\net8.0-windows\FinalGui.deps.json
+C:\Users\user\source\repos\FinalGui\bin\Debug\net8.0-windows\FinalGui.runtimeconfig.json
+C:\Users\user\source\repos\FinalGui\bin\Debug\net8.0-windows\FinalGui.dll
+C:\Users\user\source\repos\FinalGui\bin\Debug\net8.0-windows\FinalGui.pdb
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.Form1.resources
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.Properties.Resources.resources
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.AssemblyInfo.cs
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.dll
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\refint\FinalGui.dll
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.pdb
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\FinalGui.genruntimeconfig.cache
+C:\Users\user\source\repos\FinalGui\obj\Debug\net8.0-windows\ref\FinalGui.dll
